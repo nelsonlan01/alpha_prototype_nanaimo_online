@@ -1,6 +1,7 @@
 真。ReadMe
 第一試行版
 
+需要下載exe及alpha_nanaimo_rebuild_Data 資料夾，才可成功啟動啟動器。
 用1024*768運行
 
 ======
