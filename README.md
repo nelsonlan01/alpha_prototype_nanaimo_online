@@ -1,4 +1,4 @@
-# alpha_prototype_nanaimo_online
+# alpha_prototype_nanaimo_online 第一試行版(非最後版本)
 A prototype from Nelson, Lan. Who are former Nanaimo online player since server startup. This project rebuild memory of the game.
 
 【中文聲明、媒體來源】
