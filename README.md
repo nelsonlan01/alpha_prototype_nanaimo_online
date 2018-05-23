@@ -16,7 +16,7 @@ Any of the user-created content is allowed to create, but content should share i
 
 
 【理念由來】
-	原作由一韓國遊戲開發商（Toppig）開發的，橫向捲軸式射擊遊戲。
+原作由一韓國遊戲開發商（Toppig）開發的，橫向捲軸式射擊遊戲。
 由戲谷（香港）代理。 可惜當時代理商終止對其的服務，令到這遊戲正式告一段落。在2011年3月23日宣布，於2011年4月26日下午15:00結束營運，「被 」告一段落。
 
 
@@ -35,16 +35,16 @@ Any of the user-created content is allowed to create, but content should share i
 
 
 【里程碑群落】
-	以下為本作的里程碑，及其工序範圍：
-　　怪物（一）3D建模，本體構造；
-　　正式實裝本體部分，場景背景parallax scrolling；
-　　生怪器及物件回收引擎(Garbage Collection)；
-　　金錢系統及初代計分機制；
-　　初代介面及整合上一代計分機制；
-　　實裝計分機制到介面上；
-　　活動及補給箱子3D建模及實裝；
-　　隨機掉落及修定卡片碰撞；
-　　正式實裝卡片機制；
+以下為本作的里程碑，及其工序範圍：
+怪物（一）3D建模，本體構造；
+正式實裝本體部分，場景背景parallax scrolling；
+生怪器及物件回收引擎(Garbage Collection)；
+金錢系統及初代計分機制；
+初代介面及整合上一代計分機制；
+實裝計分機制到介面上；
+活動及補給箱子3D建模及實裝；
+隨機掉落及修定卡片碰撞；
+正式實裝卡片機制；
 初代卡片存放及現化；
 實裝卡片現化；
 簡易物件（進階卡片現化）／消耗品；
@@ -52,7 +52,7 @@ Any of the user-created content is allowed to create, but content should share i
 
 
 【專案發行】
-	專案考慮不會離開以下幾個方案的形式發佈：
+專案考慮不會離開以下幾個方案的形式發佈：
 於GitHub下載，同時開放Fork及Pull功能，給予外界更有心人修改。
 YouTube 外鏈結下載。
 諮詢版務意見後，公佈於可宣傳的論壇。
